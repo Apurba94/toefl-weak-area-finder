@@ -1,0 +1,14 @@
+{
+ "name": "toefl-weak-area-finder",
+ "title": "TOEFL Weak Area Finder",
+ "exam": "TOEFL",
+ "area": "TOEFL Planning and Both Tests",
+ "desc": "A short diagnostic across the four skills, combined with your results in other apps, to show what to study next.",
+ "content": [
+  "toefl_passages.json",
+  "responses.json",
+  "build_sentences.json",
+  "grammar.json"
+ ],
+ "n": 94
+}
